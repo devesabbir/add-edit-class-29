@@ -1,0 +1,15 @@
+form#editForm {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #ccc;
+    padding: 40px;
+    border-radius: 5px;
+}
+.dashboard-sec img {
+    max-width: 100%;
+    width: 100px;
+    object-fit: cover;
+}
+

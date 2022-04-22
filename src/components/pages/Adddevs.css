@@ -1,0 +1,15 @@
+.adddevsform{
+    background-color: #033c46;
+    padding: 100px 50px;
+}
+
+.addformcheck {
+    display: flex;
+    gap: 0 10px;
+    
+    
+}
+
+.addformcheck label {
+    color:aliceblue
+}
